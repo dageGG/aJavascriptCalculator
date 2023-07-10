@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+#display {
+    font-size: 2rem;
+}
